@@ -1,0 +1,78 @@
+cancer_type_tfl,cstage,total_cancers,detec_cancers
+Anus,I,1,1
+Anus,II,2,1
+Anus,III,1,1
+Anus,IV,1,1
+Bladder,II,2,2
+Bladder,III,2,2
+Breast,I,42,1
+Breast,II,46,24
+Breast,III,12,12
+Breast,IV,4,4
+Cervix,I,4,1
+Cervix,II,2,2
+Cervix,III,1,1
+Colon/Rectum,I,7,2
+Colon/Rectum,II,10,7
+Colon/Rectum,III,15,12
+Colon/Rectum,IV,21,20
+Esophagus,I,1,0
+Esophagus,II,5,3
+Esophagus,III,7,7
+Esophagus,IV,8,7
+Gallbladder,I,2,2
+Gallbladder,III,1,1
+Head and Neck,I,3,2
+Head and Neck,II,4,1
+Head and Neck,III,6,5
+Head and Neck,IV,12,10
+Kidney,I,19,0
+Kidney,II,2,0
+Kidney,III,1,0
+Kidney,IV,3,3
+Liver/Bile-duct,I,2,1
+Liver/Bile-duct,II,2,2
+Liver/Bile-duct,III,3,3
+Liver/Bile-duct,IV,4,4
+Lung,I,27,6
+Lung,II,11,5
+Lung,III,31,25
+Lung,IV,42,37
+Lymphoid Leukemia,No Stage,19,9
+Lymphoma,I,7,4
+Lymphoma,II,12,12
+Lymphoma,III,12,10
+Lymphoma,IV,19,19
+Melanoma,IV,1,1
+Myeloid Neoplasm,No Stage,1,0
+Other,I,3,1
+Other,II,2,1
+Other,III,6,4
+Other,No Stage,1,0
+Ovary,I,1,0
+Ovary,II,1,0
+Ovary,III,12,10
+Ovary,IV,3,2
+Pancreas,I,8,5
+Pancreas,II,6,5
+Pancreas,III,8,6
+Pancreas,IV,17,17
+Plasma Cell Neoplasm,I,4,3
+Plasma Cell Neoplasm,II,4,4
+Plasma Cell Neoplasm,III,4,3
+Prostate,I,19,0
+Prostate,II,51,1
+Prostate,III,7,2
+Prostate,IV,7,7
+Sarcoma,I,1,0
+Sarcoma,II,1,0
+Sarcoma,III,1,0
+Sarcoma,IV,2,1
+Stomach,I,1,0
+Stomach,II,3,1
+Stomach,III,1,1
+Stomach,IV,3,3
+Thyroid,I,1,0
+Uterus,I,32,5
+Uterus,III,3,3
+Uterus,IV,1,1

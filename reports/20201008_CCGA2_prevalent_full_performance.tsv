@@ -1,0 +1,27 @@
+Measure	No	AggFast	Fast	Slow
+Scenario(years in stage I)	No MCED	AggFast(1-2)	Fast(2-4)	Slow(3-7)
+Screening Type	no	prevalent	prevalent	prevalent
+Basic Performance				
+Total Cancer Incidence (100K person years),n	1187	1500	1970	2572
+Found Usual Care, n(% total cancer)	1187(100)	875(58)	816(41)	783(30)
+Intercepted, n(% total cancer)	0(0)	625(42)	1155(59)	1789(70)
+False Positives, n	0	689	686	682
+True Positives, n (PPV = % of positives)	0(NA)	625(48)	1155(63)	1789(72)
+Stage Shift				
+Total Late (III+IV),n (% total cancers)	409(34)	668(45)	1033(52)	1471(57)
+Final Late (III+IV),n (% total cancers)	409(34)	318(21)	388(20)	449(17)
+Reduction Late, n( % total late)	0(0)	-350(52)	-645(62)	-1022(69)
+Breakout By Mode Found				
+Stage III+IV Usual Care, n (% found usual care)	409(34)	183(21)	148(18)	130(17)
+Stage III+IV Pre-Intercept, n (% intercepted)	0(NaN)	485(78)	885(77)	1341(75)
+Stage III+IV Post-Intercept,n (% intercepted)	0(NaN)	135(22)	240(21)	320(18)
+Reduction(III+IV), n (% late intercepted)	0(NaN)	-350(72)	-645(73)	-1022(76)
+Individuals Expected to Die (IED) of Cancer in 5 years				
+Total IED, n(% total cancer)	393(33)	583(39)	831(42)	1181(46)
+Final IED, n(% total cancer)	393(33)	431(29)	567(29)	760(30)
+Reduction IED, n, (% total IED)	0(0)	-152(26)	-264(32)	-421(36)
+Breakout By Mode Found				
+IED Usual Care, n (% total IED)	393(100)	212(36)	183(22)	166(14)
+IED Pre-Intercept, n (% total IED)	0(0)	372(64)	649(78)	1015(86)
+IED Post-Intercept, n (% IED pre-intercept)	0(NaN)	220(59)	384(59)	594(59)
+Reduction IED, n (% IED pre-intercept)	0(NaN)	-152(41)	-264(41)	-421(41)

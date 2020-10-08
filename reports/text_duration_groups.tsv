@@ -1,0 +1,17 @@
+dwell_group	scenario	I	II	III	IV
+A	VSlow	4	2	1	1
+A	Slow	3	1.5	0.75	0.75
+A	Fast	2	1	0.5	0.5
+A	AggFast	1.5	0.75	0.5	0.25
+B	VSlow	8	4	2	1
+B	Slow	6	3	1.5	1
+B	Fast	4	2	1	1
+B	AggFast	1.5	0.75	0.5	0.25
+C	VSlow	8	2	1	1
+C	Slow	5	1.5	1	0.75
+C	Fast	2	1	1	0.5
+C	AggFast	1	0.5	0.25	0.25
+D	VSlow	10	4	2	1
+D	Slow	7	3	1.5	1
+D	Fast	4	2	1	1
+D	AggFast	2	1	0.5	0.5

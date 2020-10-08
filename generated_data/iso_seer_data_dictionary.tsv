@@ -1,0 +1,7 @@
+Cancer	Cancer sensitivity group
+Stage	AJCC stage(I-IV) or NotStaged for no standard staging
+IR	Imputed incidence rate per 100K individuals from SEER
+Survival	5 year cancer specific survival
+c	Cancers successfully detected
+n	Number of attempts
+sens	Weighted isotonic regression estimate of sensitivity

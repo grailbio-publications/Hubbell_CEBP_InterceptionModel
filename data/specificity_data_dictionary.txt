@@ -1,0 +1,4 @@
+dataset	Training (cross-validated), Validation (hold-out)
+total_ncancers	Number of enrolled as non-cancer samples used
+detec_ncancers	Number of enrolled as non-cancer samples detected
+spec	Specificity estimate 

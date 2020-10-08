@@ -1,0 +1,6 @@
+scenario	Stage	dwell_range	aggressive
+0	I	NONE	MIS
+1	I	4-10	VSlow
+2	I	3-7	Slow
+3	I	2-4	Fast
+4	I	1-2	AggFast

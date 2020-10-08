@@ -1,0 +1,5 @@
+dwell_group	cancer
+A	Anus,Colon/Rectum,Esophagus,Lung
+B	Cervix,Uterus,Head and Neck,Lymphoid Leukemia,Lymphoma,Plasma Cell Neoplasm,Ovary
+C	Kidney,Liver/Bile-duct,Pancreas,Gallbladder,Prostate,Stomach,Sarcoma,Thyroid
+D	Bladder,Urothelial Tract,Breast,Melanoma,Myeloid Neoplasm,[OTHER]

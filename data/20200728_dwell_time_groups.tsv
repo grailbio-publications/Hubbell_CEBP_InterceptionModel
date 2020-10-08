@@ -1,0 +1,26 @@
+Cancer	group
+Anus	A
+Colon/Rectum	A
+Esophagus	A
+Lung	A
+Cervix	B
+Uterus	B
+Head and Neck	B
+Lymphoid Leukemia	B
+Lymphoma	B
+Plasma Cell Neoplasm	B
+Ovary	B
+Kidney	C
+Liver/Bile-duct	C
+Pancreas	C
+Gallbladder	C
+Prostate	C
+Stomach	C
+Sarcoma	C
+Thyroid	C
+Bladder	D
+Urothelial Tract	D
+Breast	D
+Melanoma	D
+Myeloid Neoplasm	D
+[OTHER]	D

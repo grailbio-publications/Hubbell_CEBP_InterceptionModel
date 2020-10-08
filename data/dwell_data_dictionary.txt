@@ -1,0 +1,6 @@
+scenario	Unique id for dwell time scenario 
+Stage	Stage to which this dwell time applies
+group	dwell group to which a cancer belongs
+dwell	Mean time in years under this scenario
+Cancer	Cancer sensitivity group
+group	dwell group assigned to this cancer type

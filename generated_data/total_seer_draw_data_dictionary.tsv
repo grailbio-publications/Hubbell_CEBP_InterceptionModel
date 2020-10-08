@@ -1,0 +1,4 @@
+SEER_Draw	Cancer type as defined in SEER to match Liu et al.
+Stage	AJCC Stage(I-IV) or NotStaged if no standard staging
+IR	Imputed Incidence per 100K individuals in SEER
+Survival	5 year cancer specific survival

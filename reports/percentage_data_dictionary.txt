@@ -1,0 +1,9 @@
+scan	type of screening year (incident, prevalent,no)
+aggressive	tumor growth scenario/MIS/no screening
+Cancer	cancer type
+cfdna	incidence found by cfdna screening
+soc	incidence found by usual care
+total_cancer	total incidence of this cancer
+proportion_cfdna	proportion incidence of all incidence found by cfdna
+proportion_soc	proportion incidence of all incidence found by soc
+proportion_total	proportion incidence of all cancer incidence

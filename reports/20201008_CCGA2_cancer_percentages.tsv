@@ -1,0 +1,251 @@
+scan	aggressive	Cancer	cfdna	soc	total_cancer	proportion_cfdna	proportion_soc	proportion_total
+incident	MIS	Lung	120	43	163	25	6	14
+incident	MIS	Colon/Rectum	74	29	102	15	4	9
+incident	MIS	Breast	54	120	174	11	17	15
+incident	MIS	Head and Neck	39	4	43	8	1	4
+incident	MIS	Lymphoma	31	19	50	6	3	4
+incident	MIS	Pancreas	28	4	32	6	1	3
+incident	MIS	Liver/Bile-duct	21	5	26	4	1	2
+incident	MIS	Prostate	20	186	207	4	27	17
+incident	MIS	Stomach	15	3	18	3	0	2
+incident	MIS	Ovary	14	4	19	3	1	2
+incident	MIS	Uterus	14	26	40	3	4	3
+incident	MIS	Bladder	13	11	24	3	2	2
+incident	MIS	Esophagus	10	3	13	2	0	1
+incident	MIS	Kidney	9	32	41	2	5	3
+incident	MIS	Sarcoma	5	7	12	1	1	1
+incident	MIS	Gallbladder	5	3	8	1	0	1
+incident	MIS	Cervix	5	2	6	1	0	1
+incident	MIS	Anus	4	2	5	1	0	0
+incident	MIS	Urothelial Tract	3	2	4	1	0	0
+incident	MIS	Melanoma	2	52	54	0	7	5
+incident	MIS	[OTHER]	0	71	71	0	10	6
+incident	MIS	Thyroid	0	25	25	0	3	2
+incident	MIS	Plasma Cell Neoplasm	0	18	18	0	3	2
+incident	MIS	Lymphoid Leukemia	0	17	17	0	2	1
+incident	MIS	Myeloid Neoplasm	0	15	15	0	2	1
+incident	VSlow	Lung	106	57	163	25	7	14
+incident	VSlow	Colon/Rectum	64	38	102	15	5	9
+incident	VSlow	Breast	44	130	174	11	17	15
+incident	VSlow	Head and Neck	38	5	43	9	1	4
+incident	VSlow	Lymphoma	29	21	50	7	3	4
+incident	VSlow	Pancreas	26	6	32	6	1	3
+incident	VSlow	Liver/Bile-duct	19	7	26	4	1	2
+incident	VSlow	Stomach	14	5	18	3	1	2
+incident	VSlow	Bladder	12	12	24	3	2	2
+incident	VSlow	Uterus	12	27	40	3	4	3
+incident	VSlow	Ovary	12	7	19	3	1	2
+incident	VSlow	Prostate	11	195	207	3	26	17
+incident	VSlow	Esophagus	8	4	13	2	1	1
+incident	VSlow	Kidney	6	35	41	1	5	3
+incident	VSlow	Sarcoma	5	8	12	1	1	1
+incident	VSlow	Cervix	4	2	6	1	0	1
+incident	VSlow	Gallbladder	4	4	8	1	0	1
+incident	VSlow	Anus	3	2	5	1	0	0
+incident	VSlow	Urothelial Tract	3	2	4	1	0	0
+incident	VSlow	Melanoma	1	53	54	0	7	5
+incident	VSlow	[OTHER]	0	71	71	0	9	6
+incident	VSlow	Thyroid	0	25	25	0	3	2
+incident	VSlow	Plasma Cell Neoplasm	0	18	18	0	2	2
+incident	VSlow	Lymphoid Leukemia	0	17	17	0	2	1
+incident	VSlow	Myeloid Neoplasm	0	15	15	0	2	1
+incident	Slow	Lung	101	62	163	25	8	14
+incident	Slow	Colon/Rectum	61	41	102	15	5	9
+incident	Slow	Breast	42	132	174	10	17	15
+incident	Slow	Head and Neck	37	6	43	9	1	4
+incident	Slow	Lymphoma	28	22	50	7	3	4
+incident	Slow	Pancreas	26	7	32	6	1	3
+incident	Slow	Liver/Bile-duct	18	8	26	4	1	2
+incident	Slow	Stomach	13	5	18	3	1	2
+incident	Slow	Bladder	12	12	24	3	2	2
+incident	Slow	Uterus	12	28	40	3	4	3
+incident	Slow	Ovary	11	7	19	3	1	2
+incident	Slow	Prostate	10	197	207	2	25	17
+incident	Slow	Esophagus	8	5	13	2	1	1
+incident	Slow	Kidney	6	35	41	1	4	3
+incident	Slow	Sarcoma	4	8	12	1	1	1
+incident	Slow	Cervix	4	2	6	1	0	1
+incident	Slow	Gallbladder	4	4	8	1	1	1
+incident	Slow	Anus	3	2	5	1	0	0
+incident	Slow	Urothelial Tract	2	2	4	1	0	0
+incident	Slow	Melanoma	1	53	54	0	7	5
+incident	Slow	[OTHER]	0	71	71	0	9	6
+incident	Slow	Thyroid	0	25	25	0	3	2
+incident	Slow	Plasma Cell Neoplasm	0	18	18	0	2	2
+incident	Slow	Lymphoid Leukemia	0	17	17	0	2	1
+incident	Slow	Myeloid Neoplasm	0	15	15	0	2	1
+incident	Fast	Lung	91	72	163	25	9	14
+incident	Fast	Colon/Rectum	56	46	102	15	6	9
+incident	Fast	Breast	38	136	174	10	17	15
+incident	Fast	Head and Neck	37	6	43	10	1	4
+incident	Fast	Lymphoma	27	23	50	7	3	4
+incident	Fast	Pancreas	24	8	32	7	1	3
+incident	Fast	Liver/Bile-duct	16	10	26	4	1	2
+incident	Fast	Stomach	12	6	18	3	1	2
+incident	Fast	Bladder	11	12	24	3	2	2
+incident	Fast	Uterus	11	28	40	3	3	3
+incident	Fast	Ovary	11	8	19	3	1	2
+incident	Fast	Prostate	8	199	207	2	24	17
+incident	Fast	Esophagus	7	6	13	2	1	1
+incident	Fast	Kidney	5	35	41	1	4	3
+incident	Fast	Cervix	4	2	6	1	0	1
+incident	Fast	Sarcoma	4	9	12	1	1	1
+incident	Fast	Gallbladder	3	4	8	1	1	1
+incident	Fast	Urothelial Tract	2	2	4	1	0	0
+incident	Fast	Anus	2	3	5	1	0	0
+incident	Fast	Melanoma	1	53	54	0	7	5
+incident	Fast	[OTHER]	0	71	71	0	9	6
+incident	Fast	Thyroid	0	25	25	0	3	2
+incident	Fast	Plasma Cell Neoplasm	0	18	18	0	2	2
+incident	Fast	Lymphoid Leukemia	0	17	17	0	2	1
+incident	Fast	Myeloid Neoplasm	0	15	15	0	2	1
+incident	AggFast	Lung	84	79	163	27	9	14
+incident	AggFast	Colon/Rectum	52	50	102	17	6	9
+incident	AggFast	Head and Neck	32	11	43	10	1	4
+incident	AggFast	Breast	28	146	174	9	17	15
+incident	AggFast	Lymphoma	21	29	50	7	3	4
+incident	AggFast	Pancreas	20	13	32	6	1	3
+incident	AggFast	Liver/Bile-duct	13	14	26	4	2	2
+incident	AggFast	Bladder	10	14	24	3	2	2
+incident	AggFast	Stomach	9	9	18	3	1	2
+incident	AggFast	Uterus	9	31	40	3	4	3
+incident	AggFast	Ovary	8	11	19	3	1	2
+incident	AggFast	Esophagus	6	6	13	2	1	1
+incident	AggFast	Prostate	4	202	207	1	23	17
+incident	AggFast	Cervix	3	3	6	1	0	1
+incident	AggFast	Sarcoma	3	9	12	1	1	1
+incident	AggFast	Kidney	3	38	41	1	4	3
+incident	AggFast	Urothelial Tract	2	2	4	1	0	0
+incident	AggFast	Anus	2	3	5	1	0	0
+incident	AggFast	Gallbladder	2	5	8	1	1	1
+incident	AggFast	Melanoma	1	54	54	0	6	5
+incident	AggFast	[OTHER]	0	71	71	0	8	6
+incident	AggFast	Thyroid	0	25	25	0	3	2
+incident	AggFast	Plasma Cell Neoplasm	0	18	18	0	2	2
+incident	AggFast	Lymphoid Leukemia	0	17	17	0	2	1
+incident	AggFast	Myeloid Neoplasm	0	15	15	0	2	1
+no	MIS	Prostate	0	207	207	NaN	17	17
+no	MIS	Breast	0	174	174	NaN	15	15
+no	MIS	Lung	0	163	163	NaN	14	14
+no	MIS	Colon/Rectum	0	102	102	NaN	9	9
+no	MIS	[OTHER]	0	71	71	NaN	6	6
+no	MIS	Melanoma	0	54	54	NaN	5	5
+no	MIS	Lymphoma	0	50	50	NaN	4	4
+no	MIS	Head and Neck	0	43	43	NaN	4	4
+no	MIS	Kidney	0	41	41	NaN	3	3
+no	MIS	Uterus	0	40	40	NaN	3	3
+no	MIS	Pancreas	0	32	32	NaN	3	3
+no	MIS	Liver/Bile-duct	0	26	26	NaN	2	2
+no	MIS	Thyroid	0	25	25	NaN	2	2
+no	MIS	Bladder	0	24	24	NaN	2	2
+no	MIS	Ovary	0	19	19	NaN	2	2
+no	MIS	Stomach	0	18	18	NaN	2	2
+no	MIS	Plasma Cell Neoplasm	0	18	18	NaN	2	2
+no	MIS	Lymphoid Leukemia	0	17	17	NaN	1	1
+no	MIS	Myeloid Neoplasm	0	15	15	NaN	1	1
+no	MIS	Esophagus	0	13	13	NaN	1	1
+no	MIS	Sarcoma	0	12	12	NaN	1	1
+no	MIS	Gallbladder	0	8	8	NaN	1	1
+no	MIS	Cervix	0	6	6	NaN	1	1
+no	MIS	Anus	0	5	5	NaN	0	0
+no	MIS	Urothelial Tract	0	4	4	NaN	0	0
+prevalent	VSlow	Lung	416	57	473	17	7	15
+prevalent	VSlow	Head and Neck	407	5	413	17	1	13
+prevalent	VSlow	Colon/Rectum	302	38	340	12	5	11
+prevalent	VSlow	Pancreas	228	6	234	9	1	7
+prevalent	VSlow	Lymphoma	202	21	223	8	3	7
+prevalent	VSlow	Breast	193	130	323	8	17	10
+prevalent	VSlow	Liver/Bile-duct	135	7	142	6	1	4
+prevalent	VSlow	Bladder	121	12	132	5	2	4
+prevalent	VSlow	Ovary	81	7	88	3	1	3
+prevalent	VSlow	Stomach	78	5	83	3	1	3
+prevalent	VSlow	Uterus	77	27	105	3	4	3
+prevalent	VSlow	Sarcoma	34	8	42	1	1	1
+prevalent	VSlow	Urothelial Tract	30	2	32	1	0	1
+prevalent	VSlow	Esophagus	29	4	34	1	1	1
+prevalent	VSlow	Cervix	29	2	31	1	0	1
+prevalent	VSlow	Prostate	18	195	214	1	26	7
+prevalent	VSlow	Kidney	14	35	49	1	5	2
+prevalent	VSlow	Anus	11	2	13	0	0	0
+prevalent	VSlow	Gallbladder	11	4	14	0	0	0
+prevalent	VSlow	Melanoma	1	53	55	0	7	2
+prevalent	VSlow	[OTHER]	0	71	71	0	9	2
+prevalent	VSlow	Thyroid	0	25	25	0	3	1
+prevalent	VSlow	Plasma Cell Neoplasm	0	18	18	0	2	1
+prevalent	VSlow	Lymphoid Leukemia	0	17	17	0	2	1
+prevalent	VSlow	Myeloid Neoplasm	0	15	15	0	2	0
+prevalent	Slow	Lung	313	62	375	17	8	15
+prevalent	Slow	Head and Neck	310	6	316	17	1	12
+prevalent	Slow	Colon/Rectum	227	41	268	13	5	10
+prevalent	Slow	Pancreas	155	7	162	9	1	6
+prevalent	Slow	Lymphoma	154	22	176	9	3	7
+prevalent	Slow	Breast	143	132	275	8	17	11
+prevalent	Slow	Liver/Bile-duct	90	8	99	5	1	4
+prevalent	Slow	Bladder	87	12	98	5	2	4
+prevalent	Slow	Ovary	62	7	70	3	1	3
+prevalent	Slow	Uterus	58	28	86	3	4	3
+prevalent	Slow	Stomach	56	5	61	3	1	2
+prevalent	Slow	Sarcoma	23	8	31	1	1	1
+prevalent	Slow	Esophagus	22	5	27	1	1	1
+prevalent	Slow	Cervix	22	2	24	1	0	1
+prevalent	Slow	Urothelial Tract	22	2	24	1	0	1
+prevalent	Slow	Prostate	14	197	211	1	25	8
+prevalent	Slow	Kidney	12	35	47	1	4	2
+prevalent	Slow	Gallbladder	9	4	13	0	1	0
+prevalent	Slow	Anus	8	2	11	0	0	0
+prevalent	Slow	Melanoma	1	53	55	0	7	2
+prevalent	Slow	[OTHER]	0	71	71	0	9	3
+prevalent	Slow	Thyroid	0	25	25	0	3	1
+prevalent	Slow	Plasma Cell Neoplasm	0	18	18	0	2	1
+prevalent	Slow	Lymphoid Leukemia	0	17	17	0	2	1
+prevalent	Slow	Myeloid Neoplasm	0	15	15	0	2	1
+prevalent	Fast	Head and Neck	212	6	218	18	1	11
+prevalent	Fast	Lung	209	72	281	18	9	14
+prevalent	Fast	Colon/Rectum	152	46	198	13	6	10
+prevalent	Fast	Lymphoma	106	23	129	9	3	7
+prevalent	Fast	Breast	93	136	230	8	17	12
+prevalent	Fast	Pancreas	82	8	90	7	1	5
+prevalent	Fast	Bladder	52	12	64	5	2	3
+prevalent	Fast	Liver/Bile-duct	46	10	56	4	1	3
+prevalent	Fast	Ovary	43	8	51	4	1	3
+prevalent	Fast	Uterus	39	28	68	3	3	3
+prevalent	Fast	Stomach	34	6	40	3	1	2
+prevalent	Fast	Esophagus	15	6	20	1	1	1
+prevalent	Fast	Cervix	15	2	17	1	0	1
+prevalent	Fast	Urothelial Tract	13	2	15	1	0	1
+prevalent	Fast	Sarcoma	11	9	20	1	1	1
+prevalent	Fast	Prostate	10	199	209	1	24	11
+prevalent	Fast	Kidney	9	35	45	1	4	2
+prevalent	Fast	Gallbladder	7	4	11	1	1	1
+prevalent	Fast	Anus	6	3	8	0	0	0
+prevalent	Fast	Melanoma	1	53	55	0	7	3
+prevalent	Fast	[OTHER]	0	71	71	0	9	4
+prevalent	Fast	Thyroid	0	25	25	0	3	1
+prevalent	Fast	Plasma Cell Neoplasm	0	18	18	0	2	1
+prevalent	Fast	Lymphoid Leukemia	0	17	17	0	2	1
+prevalent	Fast	Myeloid Neoplasm	0	15	15	0	2	1
+prevalent	AggFast	Lung	163	79	242	26	9	16
+prevalent	AggFast	Colon/Rectum	116	50	166	19	6	11
+prevalent	AggFast	Head and Neck	82	11	93	13	1	6
+prevalent	AggFast	Breast	47	146	192	7	17	13
+prevalent	AggFast	Lymphoma	41	29	70	7	3	5
+prevalent	AggFast	Pancreas	37	13	50	6	1	3
+prevalent	AggFast	Bladder	26	14	40	4	2	3
+prevalent	AggFast	Liver/Bile-duct	21	14	35	3	2	2
+prevalent	AggFast	Ovary	17	11	28	3	1	2
+prevalent	AggFast	Uterus	15	31	46	2	4	3
+prevalent	AggFast	Stomach	15	9	24	2	1	2
+prevalent	AggFast	Esophagus	12	6	18	2	1	1
+prevalent	AggFast	Urothelial Tract	7	2	9	1	0	1
+prevalent	AggFast	Cervix	6	3	9	1	0	1
+prevalent	AggFast	Sarcoma	5	9	15	1	1	1
+prevalent	AggFast	Prostate	5	202	207	1	23	14
+prevalent	AggFast	Anus	4	3	7	1	0	0
+prevalent	AggFast	Kidney	4	38	41	1	4	3
+prevalent	AggFast	Gallbladder	3	5	8	0	1	1
+prevalent	AggFast	Melanoma	1	54	55	0	6	4
+prevalent	AggFast	[OTHER]	0	71	71	0	8	5
+prevalent	AggFast	Thyroid	0	25	25	0	3	2
+prevalent	AggFast	Plasma Cell Neoplasm	0	18	18	0	2	1
+prevalent	AggFast	Lymphoid Leukemia	0	17	17	0	2	1
+prevalent	AggFast	Myeloid Neoplasm	0	15	15	0	2	1

@@ -1,0 +1,4 @@
+cancer_type_tfl	Cancer type (tables, figures, listing)
+cstage	Cancer Stage (I-IV or No Stage)
+total_cancers	Number of samples attempted
+detec_cancers	Number of samples detected

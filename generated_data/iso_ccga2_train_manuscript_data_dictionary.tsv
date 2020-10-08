@@ -1,0 +1,6 @@
+Cancer	Cancer sensitivity group as per Liu et al. 
+Stage	AJCC Stage (I-IV) or "NotStaged" for cases with no standard staging
+c	Successes in detecting cancer
+n	Number of samples
+original_sens	Raw sensitivity value: c/n
+sens	Sensitivity after weighted isotonic regression by stage

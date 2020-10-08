@@ -1,0 +1,25 @@
+scan	type of screening round
+aggressive	text designation of tumor growth scenario/MIS
+total_cancers	total cancers in 1 year interval
+found_usual_care	total found by usual care
+found_intercepted	total found by MCED test
+population	population scale
+fp_rate	rate of false positives per screen
+total_fp	rate of false positives at population scale
+ppv	positive predictive value
+scenario_zero	modified version of aggressive for printing
+total_incidence	equal to total cancers
+total_late_cancers_original	original rate of stage III+IV cancers in total incidence
+final_late_cancers	total rate of stage III+IV cancers after interception
+total_found_usual_care	 incidence found by usual care
+total_found_intercepted	total found by interception
+total_late_usual_care	stage III+IV in those found by usual care
+total_late_pre_intercept	stage III+IV at original diagnosis in those intercepted
+total_late_post_intercept	stage III+IV at interception
+total_ied	total number originally expected to die within 5 years
+final_ied	total number after interception (see text about lead time)
+ied_found_usual_care	ied in the usual care group
+ied_found_pre_intercept	ied at original diagnosis in those intercepted
+ied_found_post_intercept	ied at stage of interception (see text about lead time)
+total_unstaged	total number of unstaged cancers
+ied_unstaged	ied accruing to the unstaged cancers
