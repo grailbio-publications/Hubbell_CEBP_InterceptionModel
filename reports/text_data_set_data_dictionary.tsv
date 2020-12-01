@@ -1,0 +1,17 @@
+opt	Option explored 
+Cancer	Cancer sensitivity group/SEER Draw
+clinical	Number of stage of original clinical presentation (1-4), 0 for NotStaged
+prequel	Number of stage at interception (1-4), 0 for NotStaged
+found_clinical	1 = intercepted, 2 = clinical presentation
+caught	Incidence intercepted at this prequel from clinical with method found_clinical
+s_survival	shifted survival after interception
+c_survival	original cancer survival
+original_survivors	incidence surviving 5 years based on original stage
+shifted_survivors	incidence surviving 5 years based on shifted stage
+original_deaths	incidence dying after 5 years based on original stage
+shifted_deaths	incidence dying after 5 years based on shifted stage
+screen_interval	screening interval in years
+dw_scenario	dwell time scenario
+scan	Type of screening year: incident/prevalent/no screening
+mode_found	cfdna or soc (matches found_clinical)
+aggressive	dwell time scenario in words

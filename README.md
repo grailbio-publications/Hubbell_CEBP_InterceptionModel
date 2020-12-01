@@ -4,14 +4,10 @@ Script to regenerate all figures and tables can be run as:
 Rscript scripts/00_coordination_script.R
 from the top level directory with this file.
 
-Multiple packages from CRAN need to be present:
-tidyverse
-#needed for processing raw data
-Iso
-readxl
-#needed for plotting
-diagram
-ggalluvial
-patchwork
-#supplemental
-pwr
+Multiple packages from CRAN are required:
+tidyverse (generally used throughout), 
+Iso and readxl (needed for processing raw data),
+diagram, ggalluvial and patchwork (needed for plotting),
+pwr (needed for supplemental)
+
+Data dictionaries contain explanations for entries in input and output files.
